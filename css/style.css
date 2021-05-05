@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+main {
+    margin: 0 auto;
+    text-align: center;
+}
+
+a {
+    font-size: 1.5rem;
+    color: #fff;
+    text-decoration: none;
+    background-color: darkslategrey;
+    padding: 20px;
+    width: 15%;
+    border-radius: 30px;
+}
+
+a:hover {
+    background-color: #fff;
+    color: darkslategrey;
+    border: 1px solid darkslategrey;
+}
+
+
+img {
+    width: 20%;
+    margin: 10px;
+}
+
+#botao {
+   margin: 0 auto;
+   text-align: center;
+   margin-top: 5%;
+  
+}
+
+
+
+
+
